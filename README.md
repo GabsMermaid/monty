@@ -1,2 +1,4 @@
-**PLACEHOLDER README.md for the monty tasks**
-# monty--test
+# monty
+### 0x19. C - Stacks, Queues - LIFO, FIFO
+
+
